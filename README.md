@@ -4,4 +4,4 @@
 ### assim com diversas dependências, que ajudaram a estruturar o projeto
 ###
 ---
-> versão 1.0.1
+> versão 1.0.2
